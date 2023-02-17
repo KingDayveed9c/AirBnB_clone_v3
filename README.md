@@ -157,7 +157,7 @@ No known bugs at this time.
 David Adejumo
 
 ## Contributor
-Naja El-yakubu
+Najah El-yakubu
 
 ## License
 Public Domain. No copy write protection. 
